@@ -12,16 +12,8 @@ font-family: 'Titillium Web', sans-serif;
 
 
 font-family: 'Mada', sans-serif;
-/*
-font-family: 'Mulish', sans-serif;
-*/
+font-family: 'Open Sans', sans-serif;
 
-
-
-/*font-family: 'Poppins', sans-serif;*/
-
-
-/*font-family: 'Rubik', sans-serif;*/
 
 
 }
@@ -66,7 +58,7 @@ nav ul  a{
 
 nav ul a:hover{
   transition: all 0.50s;
-background-color: #00f260;
+background-color: #00ff95;
 border-radius: 15px;
 padding: 5px 15px;
 color: black;
@@ -80,10 +72,10 @@ font-weight: bold;
 .invitar{
   transition: all 0.30s;
 
-  background: linear-gradient(to right, #00f260, #0575e6);
+  background: linear-gradient(to right, #00f260, #12b8a5);
 text-decoration: none;
 color: white;
-font-size: 20px;
+font-size: 17px;
 border-radius: 2em;
 padding: 5px 25px;
 font-weight: bold;
@@ -91,10 +83,10 @@ font-weight: bold;
 
 .invitar1{
   transition: all 0.30s;
-  background: linear-gradient(to right, #00f260, #0575e6);
+  background: linear-gradient(to right, #00f260, #12b8a5);
 text-decoration: none;
 color: white;
-font-size: 20px;
+font-size: 17px;
 border-radius: 2em;
 padding: 5px 25px;
 font-weight: bold;
@@ -155,13 +147,15 @@ align-items: center;
 
 .cont1_fondo1 h1{
   font-size: 66px;
+  color: #2d314e;
 }
 
 
-.cont1_fondo1 h4{
+.cont1_fondo1 p{
   color: rgb(105 105 105);
   line-height: 22px;
     margin-top: -23px;
+ 
 }
 
 
@@ -170,9 +164,13 @@ align-items: center;
 
 
 /*ESTILOS PARA EL FONDO 2*/
-.titulo_fondo2 h4{
+.titulo_fondo2 p{
   font-size: 20px;
-  color: grey;
+ color: rgb(105 105 105);
+}
+
+.titulo_fondo2 h1{
+  color: #2d314e;
 }
 
 
@@ -201,7 +199,7 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
   width: 68px;
 }
 
-.card_f2 h4{
+.card_f2 p{
   width: 80%;
   color: rgb(105 105 105);
 }
@@ -243,13 +241,17 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
   display: none;
 }
 
-.card_articulo h4{
+.card_articulo p{
   color: rgb(105 105 105);
 
 }
 
 .card_articulo p{
-  font-weight: bold;
+  /*font-weight: bold;*/
+}
+
+.card_articulo h2{
+  color: #2d314e;
 }
 
 
@@ -308,7 +310,7 @@ color: white;
 }
 
 .columna4 p{
-  color: grey;
+  color: rgb(105 105 105);
 }
 
 
@@ -369,7 +371,16 @@ top: 80px;
 
 
 
+.card_f2 h2{
+  color: #2d314e;
+}
 
+
+
+.columna1 h2 img{
+  filter: invert(1);
+  
+}
 
 
 
@@ -403,7 +414,7 @@ top: 80px;
   width: 100%;
 }
 
-.card_f2 h4{
+.card_f2 p{
   width: 100%;
 }
 
@@ -458,7 +469,7 @@ top: 80px;
   width: 80px;
 }
 
-.card_f2 h4{
+.card_f2 p{
   width: 100%;
 }
 

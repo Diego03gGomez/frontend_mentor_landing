@@ -46,9 +46,9 @@
     <div class="cont1_fondo1">
 <h1>Next generation <br>
 digital banking</h1>
-<h4>Take your financial life online. Your Easybank account <br>
+<p>Take your financial life online. Your Easybank account <br>
 wil be a one-shop for spending, saving <br>
-budgeting, investing, and more.</h4>
+budgeting, investing, and more.</p>
 
 <a  class="invitar" href="">Request invite</a>
 
@@ -78,8 +78,8 @@ budgeting, investing, and more.</h4>
     
 <div class="titulo_fondo2">
 <h1>Why choose Easybank?</h1>
-<h4>We leverange Open Banking to turn your bank account into your financial hub. <br>
-Control your finances like never before</h4>
+<p>We leverange Open Banking to turn your bank account into your financial hub. <br>
+Control your finances like never before</p>
 
 </div>
 
@@ -91,7 +91,7 @@ Control your finances like never before</h4>
 </div>
 <h2>{{e.titulo}}</h2>
 
-<h4>{{e.descripcion}}</h4>
+<p>{{e.descripcion}}</p>
 </div>
 
 
@@ -119,7 +119,7 @@ Control your finances like never before</h4>
 </div>
 <p>By {{e.autor_articulo}}  </p>
 <h2>{{e.titulo_art}}</h2>
-<h4>{{e.des_art}}</h4>
+<p>{{e.des_art}}</p>
 
 </div>
 
@@ -138,7 +138,7 @@ Control your finances like never before</h4>
 <div class="cont_footer">
 
     <div class="columna1">
-<h2>easybank</h2>
+<h2><img src="https://easybankapp-eight.vercel.app/static/media/logo.4d7cebc59950e27d6f943b4c63129d81.svg" alt=""></h2>
 <div class="redes">
     <a href=""><i class="fa-brands fa-facebook"></i></a>
     <a href=""><i class="fa-brands fa-youtube"></i></a>
