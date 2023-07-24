@@ -15,7 +15,7 @@
 
 
 
-<h1><img src="http://127.0.0.1:5173/logo.jpeg" alt=""></h1>
+<h1><img src="https://easybankapp-eight.vercel.app/static/media/logo.4d7cebc59950e27d6f943b4c63129d81.svg" alt=""></h1>
 
 <nav>
     <ul>
