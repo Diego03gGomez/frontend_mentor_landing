@@ -15,7 +15,7 @@
 
 
 
-<h1><img src="logo.jpeg" alt=""></h1>
+<h1><img src="http://127.0.0.1:5173/logo.jpeg" alt=""></h1>
 
 <nav>
     <ul>
