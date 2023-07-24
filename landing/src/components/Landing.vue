@@ -15,7 +15,7 @@
 
 
 
-<h1><img src="logo.svg" alt=""></h1>
+<h1><img src="logo.jpeg" alt=""></h1>
 
 <nav>
     <ul>
