@@ -187,10 +187,10 @@ export default {
 data() {
     return {
         info_card2: [
-{imagen1:"icono1.svg", titulo:"Online Banking", descripcion: "Our modern web and mobile applications allow you to keep track of your finances wherever you are in the world" },
-{imagen1:"icono2.svg", titulo:"Simple Budgeting", descripcion: "See exaclty where your money goes each month. Receive notification when you re close to hitting your limits" },
-{imagen1:"icono3.svg", titulo:"Fast Onboarding", descripcion: "We dont do branches. Open your account in minutes online and start talking control of your finances right away" },
-{imagen1:"icono4.svg", titulo:"Open API", descripcion: "Manage your savings, investments, pension and much more from one account. Tracking your money has never benn easier." },        
+{imagen1:"https://easybankapp-eight.vercel.app/static/media/icon-online.b0622b15741418e9efe3805d1b2ac26b.svg", titulo:"Online Banking", descripcion: "Our modern web and mobile applications allow you to keep track of your finances wherever you are in the world" },
+{imagen1:"https://easybankapp-eight.vercel.app/static/media/icon-budgeting.ad7169975ea1eda87072ea0325a8204a.svg", titulo:"Simple Budgeting", descripcion: "See exaclty where your money goes each month. Receive notification when you re close to hitting your limits" },
+{imagen1:"https://easybankapp-eight.vercel.app/static/media/icon-onboarding.d74aed6429619336a30e42334d6eb432.svg", titulo:"Fast Onboarding", descripcion: "We dont do branches. Open your account in minutes online and start talking control of your finances right away" },
+{imagen1:"https://easybankapp-eight.vercel.app/static/media/icon-api.74c8ad1751bbd1e7f545e458f9306885.svg", titulo:"Open API", descripcion: "Manage your savings, investments, pension and much more from one account. Tracking your money has never benn easier." },        
 ],
 arrayarticulos: [
     {img_articulo: "https://images.squarespace-cdn.com/content/v1/5ea1a27dc644452fecd2e9b5/1593721163843-U2EMKZ7YNSSFYV3LCKR4/image-asset.jpeg", autor_articulo: "Clarence Robbinson", titulo_art: "Receive money in any currency with no fees", des_art: "The worlds is getting smaller and we re becoming more mobile. So why should you be forced to only receive money in a single..."}, 
