@@ -123,7 +123,8 @@ font-weight: bold;
 /*ESITLOS PARA EL FONDO 1*/
 
 #fondo1{
-  background-image: url(fondocolor.svg);
+  /*background-image: url(fondocolor.svg);*/
+  background-image: url(https://easybankapp-eight.vercel.app/static/media/bg-intro-desktop.8be308fd4ce79bd32a09ec5437774701.svg);
   background-position: right;
   background-size: contain;
   background-repeat: no-repeat;
