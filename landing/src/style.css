@@ -237,7 +237,7 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .menu{
-  font-size: 20px;
+  font-size: 25px;
   display: none;
 }
 
@@ -450,12 +450,18 @@ top: 80px;
 .cont_todo{
  display: flex;
  flex-direction: column-reverse;
+
 }
 
 .cont1_fondo1{
   text-align: center;
   width: 100%;
 }
+
+.cont2_fondo1{
+  padding-bottom: 280px;
+}
+
 
 .titulo_fondo2{
   text-align: center;
