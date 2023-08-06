@@ -40,7 +40,7 @@
 
 
 
-<div id="fondo1">
+<div  data-aos="fade-down" id="fondo1">
 
 <div class="cont_todo">
     <div class="cont1_fondo1">
@@ -76,7 +76,7 @@ budgeting, investing, and more.</p>
 
 <div id="fondo2">{
     
-<div class="titulo_fondo2">
+<div  class="titulo_fondo2">
 <h1>Why choose Easybank?</h1>
 <p>We leverange Open Banking to turn your bank account into your financial hub. <br>
 Control your finances like never before</p>
@@ -85,7 +85,7 @@ Control your finances like never before</p>
 
 <div class="cont_fondo2">
 
-<div v-for="(e, index) in info_card2" :key="index" class="card_f2">
+<div  data-aos="fade-down" v-for="(e, index) in info_card2" :key="index" class="card_f2">
 <div class="logos">
     <img :src="e.imagen1" alt="">
 </div>
@@ -107,13 +107,13 @@ Control your finances like never before</p>
 
 <div id="fondo3">
 
-    <div class="titulo_fondo3">
+    <div  data-aos="fade-down" class="titulo_fondo3">
         <h1>Latest Article</h1>
     </div>
 
 <div class="cont_fondo3">
 
-<div v-for="(e, index) in arrayarticulos" :key="index" class="card_articulo">
+<div  data-aos="fade-down" v-for="(e, index) in arrayarticulos" :key="index" class="card_articulo">
 <div class="img_articulo">
     <img :src="e.img_articulo" alt="">
 </div>
@@ -214,6 +214,9 @@ methods: {
         menu.classList.toggle("desplazar");
         
     }
+},
+mounted () {
+    AOS.init();
 },
 
     
