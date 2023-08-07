@@ -101,7 +101,7 @@ Control your finances like never before</p>
 
 
 
-}</div>
+</div>
 
 
 
