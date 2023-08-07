@@ -40,10 +40,10 @@
 
 
 
-<div  data-aos="fade-down" id="fondo1">
+<div data-aos="fade-down"     id="fondo1">
 
 <div class="cont_todo">
-    <div class="cont1_fondo1">
+    <div  class="cont1_fondo1">
 <h1>Next generation <br>
 digital banking</h1>
 <p>Take your financial life online. Your Easybank account <br>
@@ -57,7 +57,7 @@ budgeting, investing, and more.</p>
 </div>
 
 
-<div class="cont2_fondo1">
+<div  class="cont2_fondo1">
 
     <img src="https://leonidasesteban.github.io/easybank-learning-sass/static/images/image-mockups.png" alt="">
 

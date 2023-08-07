@@ -331,12 +331,12 @@ footer{
   background-color: white;
   position: absolute;
   width: 100%;
-  top: 80px;
+  top: 90px;
 display: flex;
 flex-direction: column;
 text-align: center;
 gap: 0px;
-
+z-index: 999;
 opacity: 0;
 
 }
