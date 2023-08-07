@@ -450,8 +450,15 @@ top: 80px;
 .cont_todo{
  display: flex;
  flex-direction: column-reverse;
-
 }
+
+
+
+
+#fondo1{
+  background-position: initial;
+}
+
 
 .cont1_fondo1{
   text-align: center;
@@ -459,7 +466,7 @@ top: 80px;
 }
 
 .cont2_fondo1{
-  padding-bottom: 280px;
+ /* padding-bottom: 280px;*/
 }
 
 

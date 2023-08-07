@@ -74,7 +74,7 @@ budgeting, investing, and more.</p>
 
 
 
-<div id="fondo2">{
+<div id="fondo2">
     
 <div  class="titulo_fondo2">
 <h1>Why choose Easybank?</h1>
