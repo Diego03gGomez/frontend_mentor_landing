@@ -515,3 +515,13 @@ justify-content: center;
 
 
 
+
+@media (max-width: 300px){
+.cont1_fondo1 h1{
+  font-size: 46px;
+}
+
+}
+
+
+
