@@ -504,6 +504,7 @@ right: none;
 
 .cont_fondo3{
   grid-template-columns: 1fr;
+  gap: 70px 0;
 }
 
 .titulo_fondo3{
