@@ -337,8 +337,12 @@ footer{
   transition: all 0.40s;
   background-color: white;
   position: absolute;
-  width: 100%;
+  margin: auto;
+  width: 1%;
+left: 100px;
   top: 90px;
+  top: 20px;
+
 display: flex;
 flex-direction: column;
 text-align: center;
@@ -359,6 +363,9 @@ opacity: 1;
 gap: 50px;
 padding: 10px 0;
 top: 80px;
+width: 100%;
+left: 0;
+right: none;
 }
 
 

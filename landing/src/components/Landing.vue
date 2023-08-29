@@ -164,7 +164,7 @@ Control your finances like never before</p>
 
 <div class="columna4">
 <a  class="invitar" href="">Rquest invite</a>
-<p>@Easy banl. All Rights Reserved</p>
+<p>@Easy bank. All Rights Reserved</p>
 
 </div>
 
