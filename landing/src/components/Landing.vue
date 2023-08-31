@@ -197,7 +197,7 @@ arrayarticulos: [
     {img_articulo: "https://images.squarespace-cdn.com/content/v1/5fc75bdeabffab30daabad85/1606988592695-NDWLUGVKQAY6CQWVQ68D/jay-wennington-N_Y88TWmGwA-unsplash.jpg", autor_articulo: "Wilson Hutton", titulo_art: "Treat yourself without worryng about money", des_art: "Our simple budgeting feature allows you to separate out your spending and set realistic limits each month. That means you.."},
 
 
-    {img_articulo: "https://th.bing.com/th/id/OIP.UAHkyYE61Dv3-lFWsPTxuwHaFj?pid=ImgDet&w=1600&h=1200&rs=1" , autor_articulo: "Wilson Hutton", titulo_art: "Take your Easybank card wherever you go", des_art: "We want you to enjoy your travels. This is why we don t charge any fees on purchases while you re abroad. We all even show you.."},
+    {img_articulo: "https://tesfa-mk.github.io/CODSOFT-Landing-Page/images/image-plane.jpg" , autor_articulo: "Wilson Hutton", titulo_art: "Take your Easybank card wherever you go", des_art: "We want you to enjoy your travels. This is why we don t charge any fees on purchases while you re abroad. We all even show you.."},
 
     {img_articulo: "https://images.unsplash.com/photo-1513151233558-d860c5398176?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE4MjY3M30" , autor_articulo: "Clarence Robbinson", titulo_art: "Our invite-only Beta accounts are now live!", des_art: "After a lot of hard work by the whole team, we re excited to launch our closed beta. Its seasy to request an invite throug the site"},
 
